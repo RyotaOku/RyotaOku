@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Ryota Oku, coming straight outta KWANGYA! Did I mention how much I vibe with aespa?
+
+Almost every repository has a detailed description with images, so please take a look.
+
 [![Dreams Come True - aespa](https://github.com/RyotaOku/RyotaOku/assets/114388961/07bb02fc-2cc2-4b5f-bda3-22b4218a3da0)](https://www.youtube.com/watch?v=H69tJmsgd9I&ab_channel=SMTOWN)
 
  My status | Link |
